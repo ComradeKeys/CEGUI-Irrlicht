@@ -7,9 +7,11 @@
 #IncludeRegexTransform: 
 
 /home/bkeys/Devel/CEGUI-Irrlicht/src/Main.cpp
-iostream
+irrlicht/irrlicht.h
 -
 CEGUI/CEGUI.h
+-
+CEGUI/RendererModules/Irrlicht/Renderer.h
 -
 
 /usr/include/cegui-0/CEGUI/Affector.h
@@ -837,6 +839,22 @@ CEGUI/Size.h
 /usr/include/cegui-0/CEGUI/CEGUI/Size.h
 CEGUI/Vector.h
 /usr/include/cegui-0/CEGUI/CEGUI/Vector.h
+
+/usr/include/cegui-0/CEGUI/RendererModules/Irrlicht/Renderer.h
+CEGUI/RendererModules/Irrlicht/RendererDef.h
+/usr/include/cegui-0/CEGUI/RendererModules/Irrlicht/CEGUI/RendererModules/Irrlicht/RendererDef.h
+../../Renderer.h
+/usr/include/cegui-0/CEGUI/Renderer.h
+../../Size.h
+/usr/include/cegui-0/CEGUI/Size.h
+../../Vector.h
+/usr/include/cegui-0/CEGUI/Vector.h
+vector
+-
+map
+-
+
+/usr/include/cegui-0/CEGUI/RendererModules/Irrlicht/RendererDef.h
 
 /usr/include/cegui-0/CEGUI/RenderingContext.h
 CEGUI/RenderingSurface.h

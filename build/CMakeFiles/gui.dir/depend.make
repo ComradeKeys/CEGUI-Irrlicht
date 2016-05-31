@@ -86,6 +86,8 @@ CMakeFiles/gui.dir/src/Main.cpp.o: /usr/include/cegui-0/CEGUI/RenderedStringText
 CMakeFiles/gui.dir/src/Main.cpp.o: /usr/include/cegui-0/CEGUI/RenderedStringWidgetComponent.h
 CMakeFiles/gui.dir/src/Main.cpp.o: /usr/include/cegui-0/CEGUI/RenderedStringWordWrapper.h
 CMakeFiles/gui.dir/src/Main.cpp.o: /usr/include/cegui-0/CEGUI/Renderer.h
+CMakeFiles/gui.dir/src/Main.cpp.o: /usr/include/cegui-0/CEGUI/RendererModules/Irrlicht/Renderer.h
+CMakeFiles/gui.dir/src/Main.cpp.o: /usr/include/cegui-0/CEGUI/RendererModules/Irrlicht/RendererDef.h
 CMakeFiles/gui.dir/src/Main.cpp.o: /usr/include/cegui-0/CEGUI/RenderingContext.h
 CMakeFiles/gui.dir/src/Main.cpp.o: /usr/include/cegui-0/CEGUI/RenderingSurface.h
 CMakeFiles/gui.dir/src/Main.cpp.o: /usr/include/cegui-0/CEGUI/RenderingWindow.h

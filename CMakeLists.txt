@@ -12,8 +12,8 @@ set(CMAKE_MODULE_PATH ${CMAKE_SOURCE_DIR}/cmake_modules)
 set(CMAKE_INCLUDE_CURRENT_DIR ON)
 
 #Making the compiler as strict as possible
-set(CMAKE_CXX_FLAGS " -std=c++14 -g -pedantic-errors -Werror -Wextra -Wpedantic -Winit-self -Wmissing-declarations -Wuninitialized -Woverloaded-virtual -Wfatal-errors -O3 -Wno-deprecated-declarations")
-add_definitions(${CMAKE_CXX_FLAGS})
+#set(CMAKE_CXX_FLAGS " -std=c++14 -g -pedantic-errors -Werror -Wextra -Wpedantic -Winit-self -Wmissing-declarations -Wuninitialized -Woverloaded-virtual -Wfatal-errors -O3 -Wno-deprecated-declarations")
+#add_definitions(${CMAKE_CXX_FLAGS})
 
 #Location of source files
 file(GLOB SOURCE src/*.cpp src/*.hpp)

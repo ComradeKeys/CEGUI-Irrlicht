@@ -87,6 +87,8 @@ CMakeFiles/gui.dir/src/Main.cpp.o
  /usr/include/cegui-0/CEGUI/RenderedStringWidgetComponent.h
  /usr/include/cegui-0/CEGUI/RenderedStringWordWrapper.h
  /usr/include/cegui-0/CEGUI/Renderer.h
+ /usr/include/cegui-0/CEGUI/RendererModules/Irrlicht/Renderer.h
+ /usr/include/cegui-0/CEGUI/RendererModules/Irrlicht/RendererDef.h
  /usr/include/cegui-0/CEGUI/RenderingContext.h
  /usr/include/cegui-0/CEGUI/RenderingSurface.h
  /usr/include/cegui-0/CEGUI/RenderingWindow.h
